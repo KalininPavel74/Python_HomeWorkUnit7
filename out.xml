@@ -1,0 +1,83 @@
+<?xml version="1.1" encoding="utf-8" ?>
+<phone_book>
+    <record>
+        <order_number>1</order_number>
+        <fio>Толстой Лев Николаевич</fio>
+        <phone_numbers>
+            <phone_number>+79010000001</phone_number>
+            <phone_number>+79010000011</phone_number>
+        </phone_numbers>
+    </record>
+    <record>
+        <order_number>2</order_number>
+        <fio>Пушкин Александр Сергеевич</fio>
+        <phone_numbers>
+            <phone_number>+79010000002</phone_number>
+        </phone_numbers>
+    </record>
+    <record>
+        <order_number>3</order_number>
+        <fio>Лермонтов Михаил Юрьевич</fio>
+        <phone_numbers>
+            <phone_number>+79010000003</phone_number>
+            <phone_number>+79010000033</phone_number>
+            <phone_number>+79010000333</phone_number>
+        </phone_numbers>
+    </record>
+    <record>
+        <order_number>4</order_number>
+        <fio>Фонвизин Денис Иванович</fio>
+        <phone_numbers>
+            <phone_number>+79010000004</phone_number>
+        </phone_numbers>
+    </record>
+    <record>
+        <order_number>5</order_number>
+        <fio>Карамзин Николай Михайлович</fio>
+        <phone_numbers>
+            <phone_number>+79010000005</phone_number>
+            <phone_number>+79010000055</phone_number>
+        </phone_numbers>
+    </record>
+    <record>
+        <order_number>6</order_number>
+        <fio>Тургенев Иван Сергеевич</fio>
+        <phone_numbers>
+            <phone_number>+79010000006</phone_number>
+            <phone_number>+79010000066</phone_number>
+        </phone_numbers>
+    </record>
+    <record>
+        <order_number>7</order_number>
+        <fio>Достоевский Фёдор Михайлович</fio>
+        <phone_numbers>
+            <phone_number>+79010000007</phone_number>
+            <phone_number>+79010000077</phone_number>
+        </phone_numbers>
+    </record>
+    <record>
+        <order_number>8</order_number>
+        <fio>Чехов Антон Павлович</fio>
+        <phone_numbers>
+            <phone_number>+79010000008</phone_number>
+            <phone_number>+79010000088</phone_number>
+        </phone_numbers>
+    </record>
+    <record>
+        <order_number>9</order_number>
+        <fio>Гоголь Николай Васильевич</fio>
+        <phone_numbers>
+            <phone_number>+79010000009</phone_number>
+            <phone_number>+79010000099</phone_number>
+            <phone_number>+79010000999</phone_number>
+        </phone_numbers>
+    </record>
+    <record>
+        <order_number>10</order_number>
+        <fio>Салтыков-Щедрин Михаил Евграфович</fio>
+        <phone_numbers>
+            <phone_number>+79010000010</phone_number>
+            <phone_number>+79010000110</phone_number>
+        </phone_numbers>
+    </record>
+</phone_book>
