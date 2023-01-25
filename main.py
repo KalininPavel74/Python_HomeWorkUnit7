@@ -1,5 +1,8 @@
 # Модуль для запуска приложения.
 
+# https://github.com/KalininPavel74/Python_HomeWorkUnit7.git
+# Телефонный справочник. Концепция MVC. SIDU. Console. Python. 
+
 import model
 import control
 import export_import
